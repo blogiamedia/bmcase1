@@ -1,8 +1,4 @@
-body {
-	font-family: arial;
-	font-size: 10pt;
-	color: #333;
-}
+body { 	font-family: arial; font-size: 10pt; color: #333; }
 
 .wrapper {	width: 750px; }
 
@@ -14,9 +10,10 @@ body {
 .col4 { width: 40%; }
 .col5 { width: 50% ;}
 
-.listrow { border-bottom: solid 2px #eee; height: 90px; line-height: 1.4; }
+.listrow { border: solid 2px #eee; height: 80px; line-height: 1.4; padding: 10px; margin-bottom: 5px; }
 
 .listrow-image img { width: 100px; }
 .listrow-type, .listrow-par { font-size: 11pt; }
 .listrow-price { font-size: 14pt; }
-.listrow-address { margin-bottom: 30px; }
+.listrow-address { margin-bottom: 25px; font-size: 11pt; }
+.listrow-avai { color: #bbb; }
