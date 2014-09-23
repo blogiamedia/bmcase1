@@ -9,6 +9,8 @@ body { 	font-family: arial; font-size: 10pt; color: #333; }
 .col3 { width: 30%; }
 .col4 { width: 40%; }
 .col5 { width: 50% ;}
+.col6 { width: 60% ;}
+.col7 { width: 70% ;}
 
 .listrow { border: solid 2px #eee; height: 80px; line-height: 1.4; padding: 10px; margin-bottom: 5px; }
 
