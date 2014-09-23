@@ -1,8 +1,9 @@
 body { 	font-family: arial; font-size: 10pt; color: #333; }
 
 .wrapper {	width: 750px; }
+.wrapper-full {	width: 940px; }
 
-.col1, .col2, .col3, .col4, .col5 { float: left; }
+.col1, .col2, .col3, .col4, .col5, .col6, .col7 { float: left; }
 
 .col1 { width: 10%; }
 .col2 { width: 20%; }
@@ -19,3 +20,12 @@ body { 	font-family: arial; font-size: 10pt; color: #333; }
 .listrow-price { font-size: 14pt; }
 .listrow-address { margin-bottom: 25px; font-size: 11pt; }
 .listrow-avai { color: #bbb; }
+
+.listone-head { font-size: 14pt; padding: 20px; background-color: #6899c2; color: #fff; }
+.listonefacts .col2 { font-weight: bold; }
+.listone-desc { }
+
+h1 { font-size: 17pt; padding: 0; margin: 0; }
+h2 { font-size: 13pt; padding: 0; margin: 20px 0 10px 0; text-transform: uppercase; background-color: #efefef; padding: 10px 20px; }
+
+.clear { clear: both; }
